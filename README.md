@@ -31,3 +31,4 @@ I'm close to releasing a complete React & Next.js course. Get on the email list 
 # cv-app
 # hello_test
 # portfolio-website
+# projekt2
