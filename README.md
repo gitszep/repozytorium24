@@ -32,3 +32,4 @@ I'm close to releasing a complete React & Next.js course. Get on the email list 
 # hello_test
 # portfolio-website
 # projekt2
+# repozytorium24
